@@ -81,16 +81,7 @@ class FaqV1 extends Component {
                         </div>
                     </div>
                     {/* card */}
-                    <div className="card">
-                        <h6 className="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-7" aria-expanded="false">
-                        How do I make payment by my credit card
-                        </h6>
-                        <div id="faq-item-2-7" className="collapse" data-bs-parent="#accordion_2">
-                        <div className="card-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque eleifend donec pretium vulputate sapien nec sagittis. Proin libero nunc consequat interdum. Condimentum lacinia quis vel eros donec ac. Mauris sit amet massa vitae tortor. Quisque id diam vel quam elementum pulvinar. Gravida in fermentum et sollicitudin ac orci phasellus. Facilisis gravida neque convallis a cras semper. Non arcu risus quis varius quam quisque id.</p>
-                        </div>
-                        </div>
-                    </div>
+                    
                     </div>
                     <div className="need-support text-center mt-100">
                     <h2>Still need help? Reach out to support 24/7:</h2>

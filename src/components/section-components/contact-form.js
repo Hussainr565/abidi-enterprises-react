@@ -100,9 +100,9 @@ class ContactForm extends Component {
 						</div>
 						<p><label className="input-info-save mb-0"><input type="checkbox" name="agree" /> Save my name, email, and website in this browser for the next time I comment.</label></p>
 						<div className="btn-wrapper mt-0">
-							<button className="btn theme-btn-1 btn-effect-1 text-uppercase" type="submit">Submit</button>
+							<button className="btn theme-btn-1 btn-effect-1 text-uppercase" type="submit">Submit</button> 
 						</div>
-						<p className="form-messege mb-0 mt-20" />
+						{/* <p className="form-messege mb-0 mt-20" /> */}
 						</form>
 					</div>
 					</div>
