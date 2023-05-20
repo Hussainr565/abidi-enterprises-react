@@ -16,7 +16,7 @@ class FaqV1 extends Component {
                     <div id="accordion_2">
                     {/* card */}
                     <div className="card">
-                        <h6 className="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-1" aria-expanded="false">
+                        <h6 className=" ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-1" aria-expanded="true">
                         Why should I choose Abidi Enterprises for my construction project?
                         </h6>
                         <div id="faq-item-2-1" className="collapse" data-bs-parent="#accordion_2">
@@ -27,7 +27,7 @@ class FaqV1 extends Component {
                     </div>
                     {/* card */}
                     <div className="card">
-                        <h6 className="ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-2" aria-expanded="true"> 
+                        <h6 className="collapsed ltn__card-title" data-bs-toggle="collapse" data-bs-target="#faq-item-2-2" aria-expanded="false"> 
                         What makes Abidi Enterprises different from other construction firms?
                         </h6>
                         <div id="faq-item-2-2" className="collapse show" data-bs-parent="#accordion_2">

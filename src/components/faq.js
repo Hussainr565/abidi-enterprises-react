@@ -10,7 +10,7 @@ import Footer from './global-components/footer';
 const FaqV1 = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="Frequently Asked Questions" subheader="FAQ" />
+        <PageHeader Img="faq.jpg" headertitle="Frequently Asked Questions" subheader="FAQ" />
         <Faq />
         {/* <Counter /> */}
         {/* <BlogSlider sectionClass="pt-120" /> */}

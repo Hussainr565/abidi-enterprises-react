@@ -10,7 +10,7 @@ import Footer from './global-components/footer';
 const Service_V1 = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="What We Do" subheader="Service" />
+        <PageHeader Img="service-banner-background.jpg" headertitle="What We Do" subheader="Service" />
         <ServiceV1 />
         {/* <AboutV5 /> */}
         <CallToActionV1 />

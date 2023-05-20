@@ -12,7 +12,7 @@ import Footer from './global-components/footer';
 const Portfolio_V1 = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="Our Gallery" subheader="Gallery" />
+        <PageHeader Img="spacious-living-room.jpg" headertitle="Our Gallery" subheader="Gallery" />
         <PortfolioV2 />
         <CallToActonV2 />
         {/* <BlogSlider sectionClass="pt-120" />
