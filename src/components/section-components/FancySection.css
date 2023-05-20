@@ -1,0 +1,43 @@
+.fancy-section {
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+.fancy-section:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.section-title {
+    color: #2c3e50;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.section-description {
+    color: #34495e;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.download-button {
+    color: #fff;
+    background-color: #F96960;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.download-button:hover {
+    background-color: #faa9a5;
+    color: black;
+}
