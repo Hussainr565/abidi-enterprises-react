@@ -9,14 +9,14 @@ class CallToActonV2 extends Component {
         let publicUrl = process.env.PUBLIC_URL+'/'
         let imagealt = 'image'
 
-    return <div className="ltn__call-to-action-area ltn__call-to-action-4 bg-image pt-115 pb-120 " data-bs-bg={publicUrl+"assets/img/bg/calltoaction.jpg"}>
+    return <div className="ltn__call-to-action-area ltn__call-to-action-4 bg-overlay-white-50 bg-image pt-115 pb-120 " data-bs-bg={publicUrl+"assets/img/bg/calltoaction.jpg"}>
 				<div className="container">
 				<div className="row">
 					<div className="col-lg-12">
 					<div className="call-to-action-inner call-to-action-inner-4 text-center">
 						<div className="section-title-area ltn__section-title-2">
 						<h6 className="section-subtitle ltn__secondary-color">If you have any questions</h6>
-						<h1 className="section-title white-color"> 0300 4807720</h1>
+						<h1 style={{color:'black'}} className="section-title  "> 0300 4807720</h1>
 						</div>
 						<div className="btn-wrapper">
 						<a href="tel:+923004807720" className="theme-btn-1 btn btn-effect-1">MAKE A CALL</a>

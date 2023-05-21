@@ -27,7 +27,7 @@ class FeaturesV1 extends Component {
 			            <img src={publicUrl+"assets/img/service/service-1.jpg"} alt="#" />
 			          </div>
 			          <div className="ltn__feature-info">
-			            <h3><Link to="/service-details">ARCHITECTURE</Link></h3>
+			            <h3>ARCHITECTURE</h3>
 			            <p>Designing structures for tomorrow's needs.</p>
 			            {/* <Link className="ltn__service-btn" to="/service-details">Find A Home <i className="flaticon-right-arrow" /></Link> */}
 			          </div>
@@ -39,9 +39,9 @@ class FeaturesV1 extends Component {
 			            <img src={publicUrl+"assets/img/service/service-2.jpg"} alt="#" />
 			          </div>
 			          <div className="ltn__feature-info" >
-			            <h3><Link to="/service-details">CONSTRUCTION</Link></h3>
+			            <h3>CONSTRUCTION</h3>
 			            <p>Building structures with lasting impressions.</p>
-			            {/* <Link className="ltn__service-btn" to="/service-details">Find A Home <i className="flaticon-right-arrow" /></Link> */}
+			            {/* <Link className="ltn__service-btn" to="/service-details">Find A Home <i className="flaticon-right-arrow" /> */}
 			          </div>
 			        </div>
 			      </div>
@@ -51,7 +51,7 @@ class FeaturesV1 extends Component {
 			            <img src={publicUrl+"assets/img/service/service-3.jpg"} alt="#" />
 			          </div>
 			          <div className="ltn__feature-info">
-			            <h3><Link to="/service-details">PROJECT MANAGEMENT</Link></h3>
+			            <h3>PROJECT MANAGEMENT</h3>
 			            <p>Driving projects to timely completion.</p>
 			            {/* <Link className="ltn__service-btn" to="/service-details">Find A Home <i className="flaticon-right-arrow" /></Link> */}
 			          </div>
